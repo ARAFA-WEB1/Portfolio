@@ -9,13 +9,13 @@ function Type() {
           "Freelancer",
           "Data Engineer",
           "Open Source Contributor",
-        ],
-        autoStart: true,
-        loop: true,
-        deleteSpeed: 50,
-      }}
-    />
-  );
-}
+          ],
+          autoStart: true,
+          loop: true,
+          deleteSpeed: 50,
+        }}
+      />
+    );
+  }
 
-export default Type;
+  export default Type;
