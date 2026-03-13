@@ -1,29 +1,39 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a099872b.css",
-    "main.js": "/Portfolio/static/js/main.b49cb845.js",
+    "main.js": "/Portfolio/static/js/main.649d4c28.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
-    "static/media/leaf.png": "/Portfolio/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/Portfolio/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/Portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/Portfolio/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/Portfolio/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/medicare-home.png": "/Portfolio/static/media/medicare-home.acb4995990d5b234adeb.png",
+    "static/media/freelancer.png": "/Portfolio/static/media/freelancer.fcb917c04b95a2e72a3b.png",
+    "static/media/fara3-sales.png": "/Portfolio/static/media/fara3-sales.a3ba5942e3e6a2069cff.png",
+    "static/media/fara3-collections.png": "/Portfolio/static/media/fara3-collections.3348ca6edcd64c65c6a8.png",
+    "static/media/medicare-products.png": "/Portfolio/static/media/medicare-products.b0eca95c0091b1f36f5c.png",
+    "static/media/fara3-hero.png": "/Portfolio/static/media/fara3-hero.b7b960e4b19b846d0f07.png",
+    "static/media/khamsat.png": "/Portfolio/static/media/khamsat.c8a3f5eafea7cf004bd2.png",
+    "static/media/etl-visual.png": "/Portfolio/static/media/etl-visual.23e21f4da3b76432ccc0.png",
+    "static/media/upwork.png": "/Portfolio/static/media/upwork.aafef1c0feba70ddf8c5.png",
+    "static/media/db-schema.png": "/Portfolio/static/media/db-schema.f9deee5c0a997d618fec.png",
+    "static/media/naqedli.png": "/Portfolio/static/media/naqedli.eb15d83e5195456b6ec9.png",
+    "static/media/db-cleaning.png": "/Portfolio/static/media/db-cleaning.1115fcf27e56ed9a541d.png",
+    "static/media/db-erd.png": "/Portfolio/static/media/db-erd.009e4f2e52425a6c545d.png",
     "static/media/home-main.svg": "/Portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/CV.pdf": "/Portfolio/static/media/CV.563f4e2576222d7b48c9.pdf",
-    "static/media/chatify.png": "/Portfolio/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/db-relation.png": "/Portfolio/static/media/db-relation.f11458d50f1dc26c2864.png",
+    "static/media/etl-testing.jpg": "/Portfolio/static/media/etl-testing.1bee6b4680c22d136dbf.jpg",
     "static/media/logooo.png": "/Portfolio/static/media/logooo.6c05e250964ac334f838.png",
     "static/media/avatar.svg": "/Portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/etl-azure.png": "/Portfolio/static/media/etl-azure.15efb5be5239a91e0eeb.png",
     "static/media/vscode.svg": "/Portfolio/static/media/vscode.01c32f3da6e0380beb0ed980549fa10d.svg",
     "static/media/Google Chrome.svg": "/Portfolio/static/media/Google Chrome.d37257e4fd1f57a382e297a74a566225.svg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
     "main.a099872b.css.map": "/Portfolio/static/css/main.a099872b.css.map",
-    "main.b49cb845.js.map": "/Portfolio/static/js/main.b49cb845.js.map",
+    "main.649d4c28.js.map": "/Portfolio/static/js/main.649d4c28.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a099872b.css",
-    "static/js/main.b49cb845.js"
+    "static/js/main.649d4c28.js"
   ]
 }
