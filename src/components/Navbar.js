@@ -5,7 +5,9 @@ import Container from "react-bootstrap/Container";
 import logo from "../MyAssets/logooo.png";  // or whatever your image name isimport Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
+import { MdSchool } from "react-icons/md";
 import { ImBlog } from "react-icons/im";
+import { MdMiscellaneousServices } from "react-icons/md";
 import {
   AiFillStar,
   AiOutlineHome,
@@ -83,6 +85,18 @@ function NavBar() {
                 <AiOutlineUser style={{ marginBottom: "2px" }} /> About
               </Nav.Link>
             </Nav.Item>
+
+          <Nav.Item>
+            <Nav.Link as={Link} to="/services" onClick={() => updateExpanded(false)}>
+              <MdMiscellaneousServices style={{ marginBottom: "2px" }} /> Services
+            </Nav.Link>
+          </Nav.Item>
+
+          <Nav.Item>
+            <Nav.Link as={Link} to="/education" onClick={() => updateExpanded(false)}>
+              <MdSchool style={{ marginBottom: "2px" }} /> Education
+            </Nav.Link>
+          </Nav.Item>
 
             <Nav.Item>
               <Nav.Link
